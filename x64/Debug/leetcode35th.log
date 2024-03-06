@@ -1,0 +1,4 @@
+﻿  leetcode35th.cpp
+C:\Users\87628\source\repos\Project3\leetcode35th\leetcode35th\leetcode35th.cpp(23,29): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\87628\source\repos\Project3\leetcode35th\leetcode35th\leetcode35th.cpp(30,1): warning C4715: “searchInsert”: 不是所有的控件路径都返回值
+  leetcode35th.vcxproj -> C:\Users\87628\source\repos\Project3\leetcode35th\x64\Debug\leetcode35th.exe
